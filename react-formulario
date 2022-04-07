@@ -45,7 +45,7 @@ import { monedas } from './data/monedas';
                 <div className='col-4' style={{marginLeft:'100px', paddingTop:'139px'}}>
                     <center><h1>Crypto Monedas</h1></center>
                     <SelectMonedas />
-                    <SelectCripMon />
+->                    <SelectCripMon />
                     {moneda}
                     <input
                         className='input001'
